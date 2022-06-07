@@ -1,7 +1,5 @@
 #include <stdio.h>
-#ifndef MAIN_H
 #include "main.h"
-#endif
 /**
  * print_alphabet  - prints all the lower case alphabet and a new line
  *
