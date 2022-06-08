@@ -1,5 +1,4 @@
 #include "main.h"
-#include "_putchar.c"
 /**
  * jack_bauer  - Prints the last digit of an integer
  * @n: the number to be evaluated
