@@ -3,3 +3,5 @@ void swap_int(int *n, int *m);
 int _strlen(char *s);
 void _puts(char *s);
 void _putchar(char c);
+void print_rev(char *s);
+void rev_string(char *s);
